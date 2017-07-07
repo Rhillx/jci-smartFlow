@@ -1,0 +1,15 @@
+{
+  "name": "jci-smartflow",
+  "version": "1.0.0",
+  "description": "company work flow application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhillx/jci-smartFlow.git"
+  },
+  "author": "RHILLX",
+  "license": "ISC"
+}
